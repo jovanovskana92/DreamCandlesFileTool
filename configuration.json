@@ -1,0 +1,14 @@
+{
+    "Paths": {
+        "customer_sample_file": "CUSTOMER_SAMPLE.CSV",
+        "customer_database_file": "CUSTOMER.CSV",
+        "output_customer_database_file": "smaller_customer_database.csv",
+        "invoice_file": "INVOICE.CSV",
+        "invoice_item_file": "INVOICE_ITEM.CSV",
+        "output_invoice_file": "smaller_invoice_database.csv",
+        "output_invoice_item_file": "smaller_invoice_item_database.csv"
+    },
+    "Schedule": {
+        "schedule_time": "20:38"
+    }
+}
